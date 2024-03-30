@@ -21,3 +21,13 @@ An inertial navigation system (INS) utilizes three orthogonal accelerometers and
 
 ## Update 25/03/24
 *Data and code will be available soon.*
+
+If you find the paper, dataset or code helpful in your research, please cite our paper:
+```
+@article{yampolsky2024multiple,
+  title={Multiple and Gyro-Free Inertial Datasets},
+  author={Yampolsky, Zeev and Stolero, Yair and Pri-Hadash, Nitzan and Solodar, Dan and Massas, Shira and Savin, Itai and Klein, Itzik},
+  journal={arXiv preprint arXiv:2403.15494},
+  year={2024}
+}
+```
