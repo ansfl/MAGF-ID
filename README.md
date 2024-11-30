@@ -26,8 +26,12 @@ If you find the paper, dataset or code helpful in your research, please cite our
 ```
 @article{yampolsky2024multiple,
   title={Multiple and Gyro-Free Inertial Datasets},
-  author={Yampolsky, Zeev and Stolero, Yair and Pri-Hadash, Nitzan and Solodar, Dan and Massas, Shira and Savin, Itai and Klein, Itzik},
-  journal={arXiv preprint arXiv:2403.15494},
-  year={2024}
+  author={Yampolsky, Zeev and Stolero, Yair and Pri-Hadash, Nitsan and Solodar, Dan and Massas, Shira and Savin, Itai and Klein, Itzik},
+  journal={Scientific Data},
+  volume={11},
+  number={1},
+  pages={1080},
+  year={2024},
+  publisher={Nature Publishing Group UK London}
 }
 ```
